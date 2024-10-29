@@ -1,3 +1,3 @@
 # JavaPractice
-This is my own practice
+This is my own practice.
 Author Santosh Khandekar
